@@ -1,3 +1,3 @@
 Aqui se hara la lista de instrucciones desde la rama master.
 Se agrego un comentario de la rama de reynaldomr
-se agrego un nuevo comentario desde master
+se agrego un nuevo 
